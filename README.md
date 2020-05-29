@@ -1,4 +1,4 @@
-Scripts utilizados para automazinar taredas em ambiente Windows
+Scripts utilizados para automatinar taredas em ambiente Windows
 
     1 - licencaoffice.bat
 script utilizado para automatizar a coleta de licenças do office, pode ser configurado em uma GPO para automatizar a tarefa
